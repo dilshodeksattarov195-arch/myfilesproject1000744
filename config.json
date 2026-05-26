@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheerocess",
+        "uuid": 1909104,
+        "checksum": "0ur5c5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
